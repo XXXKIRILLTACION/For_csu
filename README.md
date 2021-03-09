@@ -1,2 +1,4 @@
 # For_csu
-1234
+---
+permalink:/index.html
+---
